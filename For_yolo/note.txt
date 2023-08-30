@@ -1,0 +1,4 @@
+1. firstly use <split_travel_test.py > to make <main>filedir of allocation data.
+2. secondly use< yolo_split_dir.py > to convert the data files to target dir.
+
+if  VOC->YOLO use x2yolo.py
