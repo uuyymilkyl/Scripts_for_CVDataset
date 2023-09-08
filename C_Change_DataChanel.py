@@ -1,3 +1,6 @@
+
+#鉴于picodet只接受三通道，需要遍历图像把灰度图转成RGB图
+
 import os
 import cv2
 from PIL import Image
