@@ -27,7 +27,7 @@ def extract_frames(video_path):
     # 释放资源
     video.release()
 
-    #print(f"成功截取并保存了 {frame_count} 帧图像到 {output_dir}")
+    print(f"成功截取并保存了 {frame_count} 帧图像到 {output_dir}")
 
 if __name__ == "__main__":
     video_path = "E:/fan_video/redrune/redrune.mp4"
